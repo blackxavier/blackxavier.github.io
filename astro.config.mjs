@@ -5,7 +5,7 @@ import { defineConfig } from 'astro/config';
 // https://astro.build/config
 
 export default defineConfig({
-  integrations: [tailwind(), icon(), compress()],,
+  integrations: [tailwind(), icon(), compress()],
   site: 'https://blackxavier.github.io'
 })
 
