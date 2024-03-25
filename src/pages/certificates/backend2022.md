@@ -8,6 +8,9 @@ date issued: August 04, 2022
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 
+
+
+
 title: AWS Certified Solutions Architect - Associate
 org: Amazon Web Services (AWS)
 tags: [AWS, Solution Architecture, Infrastructure Design, AWS Services, Security Best Practices]
@@ -15,5 +18,6 @@ url: https://www.credly.com/badges/fce8fe92-babf-4008-9d90-0a3d4fac0a14/public_u
 date issued: May 14, 2023
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 
 ---
