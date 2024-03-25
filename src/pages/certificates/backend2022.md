@@ -3,7 +3,7 @@ title: AWS Certified Cloud Practitioner
 org: Amazon Web Services (AWS)
 tags: [AWS, Cloud Fundamentals, AWS Services, Cloud Economics]
 url: https://www.credly.com/badges/a0df808a-6c6d-4f2e-ba51-d11292328bff/public_url
-date issued: August 04, 2022
+date: August 04, 2022
 
 ---
 
