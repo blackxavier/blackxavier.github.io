@@ -1,9 +1,8 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Developer"
-location: Los Angeles, California
-pronouns: "he/him/el"
+name: "Arinze Ogbuchi"
+designation: "Cloud Engineer"
+location: Lagos, Nigeria
 website: "http://tafutza.hn/kos"
 ---
 
